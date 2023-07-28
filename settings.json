@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "bot",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "lgast.aternos.me",
+    "port": 28157,
+    "version": "1.12.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "zozo1997"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "/regster lgast1997",
+        "/login lgast1997",
+        "I want be alone ",
+        "Visit my GitHub page! (urFate/Afk-Bot)"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
